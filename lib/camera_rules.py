@@ -626,6 +626,18 @@ def _build_bane_mods():
             if lvl == 4 and sec == 'Player_Basic_Default_Runfast':
                 entry['InDoorRightOffset'] = ('SET', '0.0')
 
+    # Gliding sections
+    _glide_bane = {
+        'Player_Basic_Gliding/ZoomLevel[2]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding/ZoomLevel[3]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding_Fast/ZoomLevel[2]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding_Fast/ZoomLevel[3]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding_Zoom/ZoomLevel[2]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding_Fall/ZoomLevel[2]': {'RightOffset': ('SET', '0.0')},
+        'Player_Basic_Gliding_Fall/ZoomLevel[3]': {'RightOffset': ('SET', '0.0')},
+    }
+    mods.update(_glide_bane)
+
     # Ride and mount sections
     _ride_bane = {
         'Player_Ride_Broom/ZoomLevel[2]': {'RightOffset': ('SET', '0.0')},
