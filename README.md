@@ -8,6 +8,10 @@
 
 > Updated for Patch 1.01.00 - Works while other camera mods are broken!
 
+![UltraWide Desert - 32:9 Gameplay](screenshot.png)
+
+---
+
 ## Features
 
 | Feature | Description |
