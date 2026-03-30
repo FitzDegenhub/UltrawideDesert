@@ -1,25 +1,15 @@
-# UltraWide Desert - Python Builder
+# UltraWide Desert — Widescreen Camera Mod
 
 **Camera overhaul for Crimson Desert, built for 32:9 and 21:9 ultrawide monitors.**
 
-[![NexusMods](https://img.shields.io/badge/NexusMods-Pre--Built%20Presets-orange?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/crimsondesert/mods/383)
-[![GitHub Release](https://img.shields.io/badge/GitHub-Python%20Builder%20v1.2-blue?style=for-the-badge&logo=github)](https://github.com/FitzDegenhub/UltrawideDesert/releases)
+[![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/crimsondesert/mods/383)
+[![GitHub Release](https://img.shields.io/badge/GitHub-Release%20v1.2-blue?style=for-the-badge&logo=github)](https://github.com/FitzDegenhub/UltrawideDesert/releases)
 
 ![UltraWide Desert - 32:9 Gameplay](screenshot.png)
 
 ---
 
-> **Most users should grab the [Pre-Built Presets from NexusMods](https://www.nexusmods.com/crimsondesert/mods/383)** — no Python, no setup, just extract and play.
->
-> This repo is the **Python Builder** for advanced users or when the game updates and the pre-built presets are outdated.
-
----
-
-## When to Use This
-
-- The game updated and the NexusMods presets say "size mismatch"
-- You want to customise camera values beyond the 336 presets
-- You prefer building from source
+> **Works on any game version.** The mod reads your actual game files and builds camera modifications on the fly. When Crimson Desert patches, just run `install.bat` again — no waiting for mod updates.
 
 ## Features
 

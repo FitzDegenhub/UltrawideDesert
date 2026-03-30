@@ -6,25 +6,22 @@
   Inspired by @Maszradine (CDCamera) & @manymanecki (CrimsonCamera)
 ================================================================
 
-  >> This is the PYTHON BUILDER version (from GitHub).  <<
-  >> Requires Python 3.10+ with cryptography and lz4.  <<
+  >> Works on ANY game version. When Crimson Desert     <<
+  >> patches, just run install.bat again -- no waiting  <<
+  >> for mod updates.                                   <<
   >>                                                    <<
-  >> Most users should download the Pre-Built Presets   <<
-  >> from NexusMods instead -- no Python required.      <<
-  >> https://www.nexusmods.com/crimsondesert/mods/383   <<
+  >> Requires Python 3.10+ with cryptography and lz4.   <<
 
 
-WHEN TO USE THIS VERSION
-------------------------
-Use the Python Builder if:
+WHY PYTHON?
+-----------
+Other camera mods ship pre-built preset files that break
+every time the game updates. You wait for the mod author
+to recompile and re-upload.
 
-  - The game updated and the pre-built presets are outdated
-  - You want to customise camera values beyond the presets
-  - You prefer building from source
-
-If you just want to install the mod and play, download the
-Pre-Built Presets from NexusMods instead:
-https://www.nexusmods.com/crimsondesert/mods/383
+UltraWide Desert reads your actual game files and builds
+camera modifications on the fly. Game updated? Just run
+install.bat again. Done. No mod update needed.
 
 
 REQUIREMENTS
@@ -105,10 +102,13 @@ run. The mod always starts from this vanilla backup so changes
 never stack on top of each other.
 
 
-CHANGING SETTINGS
------------------
-Run install.bat again and pick different options. No need to
-uninstall first - the mod always starts from a clean backup.
+CHANGING SETTINGS / AFTER A GAME UPDATE
+---------------------------------------
+Run install.bat again and pick your options. That's it.
+
+The mod always starts from a clean vanilla backup, so changes
+never stack. And because it reads your game files directly,
+it works after every patch without needing a mod update.
 
 
 UNINSTALLATION
