@@ -4,6 +4,7 @@
 
 [![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/crimsondesert/mods/383)
 [![GitHub Release](https://img.shields.io/badge/GitHub-Release%20v1.2-blue?style=for-the-badge&logo=github)](https://github.com/FitzDegenhub/UltrawideDesert/releases)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%20Detections-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/2356006cc734177bb17ebf7a74b2c02cb479b906b792d464552237f05d64bd66)
 
 ![UltraWide Desert - 32:9 Gameplay](screenshot.png)
 
